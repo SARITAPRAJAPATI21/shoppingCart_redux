@@ -1,4 +1,5 @@
-# React + Vite
+# React + Vite + react toolkit
+## Live on vercel : https://shopping-cart-redux-kry2r1pvd-saritas-projects-ee5fd3a5.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
